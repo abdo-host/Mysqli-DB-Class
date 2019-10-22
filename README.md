@@ -2,6 +2,7 @@
 # Mysqli-DB-Class
 
 **Manipulate with your data using simple methods**
+
 Powerful actions in simple Active Record style. No any SQL writing. Fast and low-memory usage, compact and cleaner resulting code.
 
 
